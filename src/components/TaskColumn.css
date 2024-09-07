@@ -1,0 +1,10 @@
+.app_column_heading{
+    display: flex;
+    align-items: center;
+  
+}   
+.app_column_icon{
+    width:30px;
+    margin-right: 5px;
+    
+}
